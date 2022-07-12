@@ -1,11 +1,11 @@
 package main
 
 import (
-	"eff/internal/app"
-	"eff/internal/repositories"
-	"eff/internal/repositories/productserviceadapter"
-	"eff/internal/server"
-	"eff/internal/service"
+	"github.com/ThanabutJ/eff/internal/app"
+	"github.com/ThanabutJ/eff/internal/repositories"
+	"github.com/ThanabutJ/eff/internal/repositories/productserviceadapter"
+	"github.com/ThanabutJ/eff/internal/server"
+	"github.com/ThanabutJ/eff/internal/service"
 )
 
 func main() {

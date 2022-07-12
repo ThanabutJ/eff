@@ -2,8 +2,9 @@ package productserviceadapter
 
 import (
 	"context"
-	"eff/internal/repositories"
-	"eff/internal/service"
+
+	"github.com/ThanabutJ/eff/internal/repositories"
+	"github.com/ThanabutJ/eff/internal/service"
 )
 
 type productRepositoryAdapter struct {

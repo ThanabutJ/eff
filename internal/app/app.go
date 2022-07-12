@@ -1,6 +1,6 @@
 package app
 
-import "eff/internal/service"
+import "github.com/ThanabutJ/eff/internal/service"
 
 type Appllication struct {
 	ProductService service.ProductService

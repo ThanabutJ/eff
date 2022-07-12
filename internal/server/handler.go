@@ -1,8 +1,7 @@
 package server
 
 import (
-	"eff/internal/app"
-
+	"github.com/ThanabutJ/eff/internal/app"
 	"github.com/gin-gonic/gin"
 )
 
