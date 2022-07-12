@@ -4,6 +4,8 @@
 
 - add unittest
   - [gomock](https://github.com/golang/mock)
+- refactor main.go
+  - move it to cmd (maybe)
 
 ## project structure resources
 
